@@ -1,28 +1,40 @@
-# K3s Cluster Monitoring with Prometheus & Grafana
+#☸️ K3s Cluster Monitoring with Prometheus & Grafana 📊
 
-This project provides a setup to **monitor your K3s Kubernetes cluster** using **Prometheus** for metrics collection and **Grafana** for visualization.
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F5CFF?style=for-the-badge&logo=helm&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## Overview
+---
 
-Monitoring your Kubernetes cluster is essential for tracking resource usage, application performance, and troubleshooting issues. This setup uses Helm charts to deploy:
+## 🚀 Overview
 
-- **Prometheus**: Metrics collection and alerting
-- **Grafana**: Dashboards and visualization
+Monitor your **K3s Kubernetes cluster** using **Prometheus** for metrics collection and **Grafana** for dashboards.  
 
-## Prerequisites
 
-Make sure you have the following installed:
+This setup helps you track:
 
-- K3s cluster up and running
-- `kubectl` configured
-- Helm 3 installed
+- 📈 Cluster performance  
+- 🖥️ Resource usage (CPU, memory, storage)  
+- ⚠️ Alerts and anomalies  
 
-## Contributing
+---
 
-1. Fork the repository  
-2. Create a branch (`git checkout -b feature-name`)  
-3. Make your changes  
-4. Commit (`git commit -m "Add feature"`)  
-5. Push (`git push origin feature-name`)  
-6. Open a Pull Request
+## 🛠️ Prerequisites
 
+Before starting, ensure you have:
+
+- ☸️ K3s cluster running  
+- 🖥️ `kubectl` configured  
+- ⛵ Helm 3 installed  
+
+---
+
+## 💡 Features
+
+- ✅ Interactive setup script  
+- ✅ Prometheus metrics collection  
+- ✅ Grafana dashboards  
+- ✅ Port-forwarding included  
+
+---
