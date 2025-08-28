@@ -1,29 +1,28 @@
-# K3s Kubernetes Monitoring with Prometheus & Grafana
+# K3s Cluster Monitoring with Prometheus & Grafana
 
-This project provides an automated setup for monitoring a K3s Kubernetes cluster using Prometheus and Grafana, deployed with the [kube-prometheus-stack](https://github.com/prometheus-community/helm-charts) Helm chart.  
-It’s designed for AWS EC2 (or any cloud server), and includes scripts to install K3s, deploy the monitoring stack, expose Grafana, and extract all Kubernetes YAML manifests for version control and reproducibility.
+This project provides a setup to **monitor your K3s Kubernetes cluster** using **Prometheus** for metrics collection and **Grafana** for visualization.
 
----
+## Overview
 
-## Features
+Monitoring your Kubernetes cluster is essential for tracking resource usage, application performance, and troubleshooting issues. This setup uses Helm charts to deploy:
 
-- **One-command setup:** Automated script to install K3s, Helm, Prometheus, and Grafana.
-- **Cluster dashboards:** Get real-time metrics for nodes, pods, and apps.
-- **Easy Grafana access:** NodePort exposure for browser-based dashboards.
-- **Manifests for Git:** Extracts all generated Kubernetes YAML for auditing and sharing.
-- **Beginner-friendly:** Simple, step-by-step, no prior experience needed.
-
----
+- **Prometheus**: Metrics collection and alerting
+- **Grafana**: Dashboards and visualization
 
 ## Prerequisites
 
-- AWS EC2 instance (t3.small or higher recommended)
-- Ubuntu 20.04+ (tested)
-- Internet access for server
+Make sure you have the following installed:
 
----
+- K3s cluster up and running
+- `kubectl` configured
+- Helm 3 installed
 
-## Quick Start
+## Contributing
 
-Clone this repo and run the setup script (requires bash):
+1. Fork the repository  
+2. Create a branch (`git checkout -b feature-name`)  
+3. Make your changes  
+4. Commit (`git commit -m "Add feature"`)  
+5. Push (`git push origin feature-name`)  
+6. Open a Pull Request
 
