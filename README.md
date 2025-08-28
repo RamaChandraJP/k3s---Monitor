@@ -43,7 +43,7 @@ All installation and configuration commands are available in the **Commands Chea
 
 ## 🔑 Access Dashboards
 
-- **Grafana**: `http://<NODE-IP>:30080`  
+- **Grafana**: `http://<NODE-IP>:<node-port>`  
   - Username: `admin`  
   - Password: (retrieved from `commands.md`)  
 
