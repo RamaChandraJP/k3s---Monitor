@@ -1,4 +1,4 @@
-# ☸️🐳 K3s Cluster Monitoring with Prometheus & Grafana 📊
+# ☸️ K3s Cluster Monitoring with Prometheus & Grafana 📊
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F5CFF?style=for-the-badge&logo=helm&logoColor=white)
@@ -20,7 +20,7 @@ It includes all the commands from installing K3s to accessing dashboards in a **
 
 ## 🛠️ Prerequisites
 
-- 🐳 K3s cluster installed (single-node or multi-node)  
+- ☸️ K3s cluster installed (single-node or multi-node)  
 - 🖥️ `kubectl` configured  
 - ⛵ Helm 3 installed  
 
