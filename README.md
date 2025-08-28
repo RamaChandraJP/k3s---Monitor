@@ -18,6 +18,11 @@ It includes all the commands from installing K3s to accessing dashboards in a **
 
 ---
 
+## 🏗️ Architecture
+
+<img width="1061" height="700" alt="image" src="https://github.com/user-attachments/assets/3a0648b5-9f6c-4932-a8af-8d9a6dd04fd5" />
+
+
 ## 🛠️ Prerequisites
 
 - ☸️ K3s cluster installed (single-node or multi-node)  
