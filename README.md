@@ -52,6 +52,9 @@ All installation and configuration commands are available in the **Commands Chea
   - Username: `admin`  
   - Password: (retrieved from `commands.md`)  
 
+<img width="1893" height="858" alt="image" src="https://github.com/user-attachments/assets/54a632b5-e39f-47e8-ac09-f7c689c1665f" />
+
+
 - **Prometheus**: `http://localhost:9090` (via port-forward)  
 
 ---
