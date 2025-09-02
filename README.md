@@ -20,7 +20,8 @@ It includes all the commands from installing K3s to accessing dashboards in a **
 
 ## 🏗️ Architecture
 
-<img width="1061" height="700" alt="image" src="https://github.com/user-attachments/assets/3a0648b5-9f6c-4932-a8af-8d9a6dd04fd5" />
+<img width="650" height="1000" alt="image" src="https://github.com/user-attachments/assets/eded47de-9c32-4e0f-9517-988d84f98e6a" />
+
 
 
 ## 🛠️ Prerequisites
